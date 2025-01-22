@@ -1,10 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hello,World!%22&center=true&size=27" />
+    </a>
+  </div>
 
-- 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign
-- 🌱 I’m currently learning Learning Based Robotics Control
-- 📫 How to reach me: yuxuan.22@intl.zju.edu.cn or yer2@illinois.edu
-- 😄 Pronouns: He/Him
-
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+</div>
 
 <div style="text-align: center">
 <picture>
@@ -13,6 +21,14 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LYtingN/LYtingN/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+## 🙋 Hello
+
+- 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign
+- 🌱 I’m currently learning Learning Based Robotics Control
+- 📫 How to reach me: yuxuan.22@intl.zju.edu.cn or yer2@illinois.edu
+
+
 
 <div>
 <img align="left" img height="150px" src="https://github-readme-stats.vercel.app/api?username=LYtingN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
