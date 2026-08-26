@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
@@ -20,7 +20,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/LYtingN/LYtingN/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/LYtingN/LYtingN/blob/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
+</div> -->
 
 ## 🙋 Hello
 
