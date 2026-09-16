@@ -8,9 +8,9 @@
 
 ## 🙋 Hello
 
-- ### 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign
-- ### 🌱 I’m currently learning Learning Based Robotics Control
-- ### 📫 How to reach me: yuxuan.22@intl.zju.edu.cn or yer2@illinois.edu
+- ### I’m currently studying in Zhejiang University
+- ### I’m currently learning Learning-Based Robotics Control
+- ### How to reach me: yuxuan.nai@zju.edu.cn
 
 
 
